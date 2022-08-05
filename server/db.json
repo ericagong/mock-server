@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "username": "ericagong",
+      "title": "hello everyone",
+      "contents": "Good to see you guys:)"
+    },
+    {
+      "id": 1,
+      "username": "ericagong",
+      "title": "hello everyone2",
+      "contents": "Good to see you guys:)2"
+    },
+    {
+      "id": 2,
+      "username": "ericagong",
+      "title": "hello everyone3",
+      "contents": "Good to see you guys:)3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "postId": 0,
+      "username": "ericagong",
+      "contents": "comment1"
+    },
+    {
+      "id": 1,
+      "postId": 0,
+      "username": "ericagong",
+      "contents": "comment2"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "username": "ericagong",
+      "contents": "comment3"
+    }
+  ]
+}
